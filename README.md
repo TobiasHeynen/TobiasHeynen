@@ -11,7 +11,7 @@
 
 ## Operador Avanzado
 
-![HelpDesk](https://img.shields.io/badge/Help Desk-FFD000?style=for-the-badge&logo=HelpDesk&logoColor=white&labelColor=101010)</br>
+![HelpDesk](https://img.shields.io/badge/Help_Desk-FFD000?style=for-the-badge&logo=HelpDesk&logoColor=white&labelColor=101010)</br>
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white&labelColor=101010)</br>
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)</br>
 ![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=MicrosoftOutlook&logoColor=white&labelColor=101010)</br>
