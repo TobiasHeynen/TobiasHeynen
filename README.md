@@ -24,7 +24,7 @@
 
 ## Encuentrame en
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tobias_Heynen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/tobias-gabriel-heynen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tobias_Heynen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/TobiasHeynen)
 
 [![Portfolio Diseñador](https://img.shields.io/badge/Porftolio-Tobias_Heynen-0077B5?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://tobyheynen57.wixsite.com/website)
 
