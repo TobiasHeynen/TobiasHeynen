@@ -11,4 +11,14 @@
 
 ## Operador Avanzado
 
+![HelpDesk](https://img.shields.io/badge/HelpDesk-FFD000?style=for-the-badge&logo=HelpDesk&logoColor=white&labelColor=101010)</br>
 ![Microsoft Office](https://img.shields.io/badge/MicrosoftOffice-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white&labelColor=101010)</br>
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)</br>
+![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white&labelColor=101010)</br>
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white&labelColor=101010)</br>
+![Microsoft Azure](https://img.shields.io/badge/MicrosoftAzure-0078D4?style=for-the-badge&logo=microsoftAzure&logoColor=white&labelColor=101010)</br>
+![Microsoft Exchange](https://img.shields.io/badge/MicrosoftExchange-0078D4?style=for-the-badge&logo=microsoftexchange&logoColor=white&labelColor=101010)</br>
+![Adobe Photoshop](https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white&labelColor=101010)</br>
+![Adobe Illustrator](https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white&labelColor=101010)</br>
+
+
