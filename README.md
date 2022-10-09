@@ -22,11 +22,11 @@
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white&labelColor=101010)</br>
 
 
-## Encuentrame en: 
+## Encuentrame en
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tobias_Heynen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/tobias-gabriel-heynen)
 
 
 
-# Contacto:
+# Contacto
 
 ![Email](https://img.shields.io/badge/Email-tobyheynen57@gmail.com-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)
