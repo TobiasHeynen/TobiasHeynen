@@ -3,10 +3,4 @@
 
 ##Habilidades
 
-![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white%labelColor=101010)</br>
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white%labelColor=101010)</br>
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white%labelColor=101010)</br>
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white%labelColor=101010)</br>
-![HTML](https://img.shields.io/badge/HTML-FF6C00?style=for-the-badge&logo=html&logoColor=white%labelColor=101010)</br>
-![HTML](https://img.shields.io/badge/HTML-FF6C00?style=for-the-badge&logo=html&logoColor=white%labelColor=101010)</br>
-![HTML](https://img.shields.io/badge/HTML-FF6C00?style=for-the-badge&logo=html&logoColor=white%labelColor=101010)</br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
