@@ -1,5 +1,9 @@
 # 👋 Hola! Soy Tobias Heynen
-### Estudiante de la Tecnicatura en Desarollo Web en la Universidad Nacional de Entre Rios, tambien estudiante de Desarrollo Web Full Stack en Educacion it y actualmente ejerciendo como operador de Help Desk en Pixel It Solutions para Cerveceria y Malteria Quilmes
+### Profesional IT con más de 3 años de experiencia en soporte técnico
+corporativo en entornos enterprise. Especializado en gestión de incidentes, administración de
+usuarios y troubleshooting de aplicaciones críticas. Experiencia trabajando bajo entornos con SLA.
+Actualmente en formación como desarrollador web con conocimientos en Python, Java y
+JavaScript. 
 
 ## Lenguajes de Programacion
 
