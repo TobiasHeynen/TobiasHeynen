@@ -1,5 +1,5 @@
 # 👋 Hola! Soy Tobias Heynen
-### RESUMEN PROFESIONA 
+### RESUMEN PROFESIONAL 
 Profesional IT con más de 3 años de experiencia en soporte técnico
 corporativo en entornos enterprise. Especializado en gestión de incidentes, administración de
 usuarios y troubleshooting de aplicaciones críticas. Experiencia trabajando bajo entornos con SLA.
