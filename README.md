@@ -31,7 +31,7 @@ JavaScript.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tobias_Heynen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/TobiasHeynen)
 
-[![Portfolio](https://img.shields.io/badge/Porftolio-Tobias_Heynen-0077B5?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)]([https://tobyheynen57.wixsite.com/website](https://tobiasheynen-dev.netlify.app/))
+[![Portfolio](https://img.shields.io/badge/Porftolio-Tobias_Heynen-0077B5?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://tobiasheynen-dev.netlify.app/)
 
 
 ## Contacto
